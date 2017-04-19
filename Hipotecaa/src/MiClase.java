@@ -7,7 +7,7 @@
 	}
 
 	public int getAcumulado() {
-		return acumulado;
+		return resultado;
 	}
 
 	public void setAcumulado(int valor) {
